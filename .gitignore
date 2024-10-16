@@ -31,7 +31,7 @@ Mods/**/Metadata/Crypto.json
 !Mods/ExampleMod/
 
 # Keep our mods
-!Mods/CraftAnywhere
+!Mods/CraftAnywhere/
 
 # Mods binaries
 Mods/**/Binaries/*
