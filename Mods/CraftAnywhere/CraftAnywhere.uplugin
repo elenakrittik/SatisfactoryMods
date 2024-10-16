@@ -1,15 +1,15 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"FriendlyName": "CraftAnywhere",
+	"VersionName": "1.0.1",
+	"FriendlyName": "Craft Anywhere",
 	"Description": "Allows you to craft (almost) anywhere!",
 	"Category": "Modding",
 	"CreatedBy": "elenakrittik",
 	"CreatedByURL": "https://github.com/elenakrittik",
 	"DocsURL": "",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://github.com/elenakrittik/CraftAnywhere/issues",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -21,6 +21,7 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "1.0.0",
-	"GameVersion": ">=365306"
+	"SemVersion": "1.0.1",
+	"GameVersion": ">=365306",
+	"RequiredOnRemote": false
 }
