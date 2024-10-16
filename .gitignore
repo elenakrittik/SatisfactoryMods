@@ -30,6 +30,9 @@ Mods/**/Metadata/Crypto.json
 !Mods/SMLEditor/
 !Mods/ExampleMod/
 
+# Keep our mods
+!Mods/CraftAnywhere
+
 # Mods binaries
 Mods/**/Binaries/*
 Mods/**/Intermediate/*
